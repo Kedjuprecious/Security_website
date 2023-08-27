@@ -1,0 +1,18 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap"); */
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Poppins:wght@300&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Poppins:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Poppins:wght@300&family=Varela+Round&display=swap');
+
+:root {
+  --primary-color: rgb(237, 30, 30);
+  --secondary-color: ;
+  --white-color: ;
+}
+
+body {
+  margin: 0;
+}
+
+.home{
+  background-color: blue;
+}
